@@ -1,7 +1,5 @@
 # Shri Chakradhar Swami App
 
-**Author:** Ankita Satdeve
-
 ## Project Description
 
 The Shri Chakradhar Swami App is a mobile and web application that provides devotional resources and services. Users can access features such as live video streaming, content uploads, and other religious activities related to Shri Chakradhar Swami.
@@ -19,3 +17,5 @@ The Shri Chakradhar Swami App is a mobile and web application that provides devo
 - User content uploads (videos, images)
 - Admin panel for managing uploads
 - Responsive UI
+
+**Author:** Ankita Satdeve
